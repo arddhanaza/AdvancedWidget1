@@ -1,8 +1,8 @@
 # AdvancedWidget1
 
 ###Screenshot
-![alt text](https:https://docs.google.com/uc?id=0B8vzO9BCgQxuc09fY3pqQ05ERkE)
-![alt text](https:https://docs.google.com/uc?id=0B8vzO9BCgQxuajhxbkJBSGZkN3M)
+![alt text](https://docs.google.com/uc?id=0B8vzO9BCgQxuc09fY3pqQ05ERkE)
+![alt text](https://docs.google.com/uc?id=0B8vzO9BCgQxuajhxbkJBSGZkN3M)
 
 
 ###Data Siswa
